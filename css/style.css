@@ -193,6 +193,9 @@ body.loaded .hero::after {
     margin: 24px 0 20px;
     line-height: 1.25em;
 }
+.experience .role .list li.item {
+    line-height: 1.5em;
+}
 .experience .role .list li.item::before {
     top: 13px;
 }
